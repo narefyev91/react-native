@@ -29,7 +29,7 @@
 
 <h3 align="center">
   <a href="https://reactnative.dev/docs/getting-started">Getting Started</a>
-  <span> · </span>ewew
+  <span> · </span>ewewewqe
   <a href="https://reactnative.dev/docs/tutorial">Learn the Basics</a>
   <span> · </span>
   <a href="https://reactnative.dev/showcase">Showcase</a>
