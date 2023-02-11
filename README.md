@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Learn once, write anywhere:</strong><br>
-  Build mobile apps with React.
+  Build mobile apps with React.test
 </p>
 
 <p align="center">
